@@ -1,5 +1,5 @@
 *{
-    background-color: #919aa4;
+    background-color: #c7ced4;
     margin-top: 10px;
     padding:0px 10px 0px 10px;
     width: 1366;
@@ -91,20 +91,16 @@ img{
     }
   }
 .bots{
-    float:right;
-    position:relative;
+    float:left;
     top: -100px;
 }
 .end{
     float:left;
-    position:relative;
-    top:-200px;
-    left:100px;
+    position: relative;
+    top: -150px;
     text-align: left;
-    background: #ffeb00;
-    margin-bottom: 10px;
-    width: max-content;
-    border-radius:20px ;
-    border-width: 5px;
-    border-color: black;
+    right:200px;
+}
+ul{
+   text-align: left; 
 }
